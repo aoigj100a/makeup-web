@@ -25,4 +25,5 @@ git clone https://github.com/aoigj100a/makeup-web
 ## Contributor - 專案開發人員
 
 專題製作成員：王建淞(組長)、張子建、吳姵瑩、劉菁莛、林佳玟
+
 指導老師:王偉聰、許雅婷、錢達智老師
